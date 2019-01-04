@@ -1,0 +1,23 @@
+Plaza Colon,5
+Leandro,5
+Camila,6
+Jose,3
+Francisco,6
+Raul,4
+Parque Brasil,3
+Camila,2
+Francisco,10
+Raul,5
+Balneario,4
+Leandro,7
+Jose,10
+Francisco,12
+Raul,8
+Coviefi,2
+Camila,16
+Jose,10
+Terminal de Buses,2
+Leandro,20
+Jose,23
+Aeropuerto,1
+Raul,35

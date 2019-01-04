@@ -1,0 +1,8 @@
+María Elsa,mujer,roja,16
+Horacio,hombre,azul,22
+Agusta,mujer,azul,20
+Armando,hombre,roja,24
+Estela,mujer,roja,19
+Elvira,mujer,azul,26
+Fresia,mujer,azul,28
+Mercedes,mujer,roja,23

@@ -1,0 +1,10 @@
+Porotos con Rienda;50;fondo
+Pastel de Choclo;40;fondo
+Humitas;25;aperitivo
+Ceviche;35;pescado
+Cazuela;80;fondo
+Mote con Huesillos;15;postre
+Arroz con Leche;20;postre
+Empanada;15;aperitivo
+Guatitas arverjadas;80;carne
+Asado;120;carne
